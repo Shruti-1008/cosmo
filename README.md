@@ -19,6 +19,13 @@ It lets users explore planets, discover famous space missions, and save their fa
 - ✨ CSS animations
 - 🧭 Multi-page navigation
 
+## 🛠️ Technologies
+```
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
+```
 
 ## 📁 Project Structure
 
