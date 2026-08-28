@@ -16,10 +16,6 @@ It lets users explore planets, discover famous space missions, and save their fa
 - 🌌 Animated space-themed interface
 - 📱 Responsive design
 - 🌙 Dark cinematic UI
-
-
-
-iyfiuiuv
 - ✨ CSS animations
 - 🧭 Multi-page navigation
 
