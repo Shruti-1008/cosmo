@@ -8,10 +8,5 @@ It lets users explore planets, discover famous space missions, and save their fa
 
 - 🪐 Explore all 8 planets
 - 🔍 Search planets
-iubscibbv
-
-```
-
-`
-
-`````
+- ❤️ Favorite planets
+- 💾 Save favorites with localStorage
