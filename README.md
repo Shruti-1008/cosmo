@@ -55,7 +55,7 @@ cosmo/
     └── storage.js
 ```
 
-## 🌌 Pages
+## 🌌 Pages:
 🏠 Home
 
 Explore the Cosmo homepage with:
@@ -65,7 +65,7 @@ Animated Earth
 Cosmic background
 Navigation to planets and missions
 
-## 🪐 Planets
+## 🪐 Planets:
 
 Explore the eight planets of our solar system.
 
@@ -77,7 +77,7 @@ Temperature
 Number of moons
 Favorite button
 
-## 🚀 Missions
+## 🚀 Missions:
 
 Discover famous missions such as:
 
@@ -88,13 +88,13 @@ Curiosity
 James Webb
 Artemis
 
-## ❤️ Favorites
+## ❤️ Favorites:
 
 Save your favorite planets and view them on a dedicated page.
 
 Favorites are stored using browser localStorage.
 
-## 🎨 Design
+## 🎨 Design:
 
 Cosmo uses a dark cinematic space aesthetic with:
 
@@ -104,3 +104,11 @@ Glowing elements
 Glass-style cards
 Animated planets
 Twinkling stars
+
+## 🚀 How to Run:
+
+Clone the repository.
+Open the project in VS Code.
+Install the Live Server extension.
+Right-click index.html.
+Select Open with Live Server.
