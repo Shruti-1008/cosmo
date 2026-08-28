@@ -112,3 +112,14 @@ Open the project in VS Code.
 Install the Live Server extension.
 Right-click index.html.
 Select Open with Live Server.
+
+## 🔮 Future Improvements:
+
+🌍 Detailed planet pages
+🌠 NASA API integration
+🛰️ Live satellite information
+🌌 Astronomy Picture of the Day
+🔭 Interactive solar system
+🌙 Planet animations
+⭐ More space facts
+🚀 Mission timelines
