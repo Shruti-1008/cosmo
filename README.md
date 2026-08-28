@@ -20,8 +20,35 @@ It lets users explore planets, discover famous space missions, and save their fa
 - 🧭 Multi-page navigation
 
 ## 🛠️ Technologies
-
+```
 - HTML5
 - CSS3
 - JavaScript
 - LocalStorage
+```
+
+## 📁 Project Structure
+
+```text
+cosmo/
+│
+├── index.html
+├── README.md
+│
+├── pages/
+│   ├── planets.html
+│   ├── missions.html
+│   └── favorites.html
+│
+├── css/
+│   ├── style.css
+│   ├── animations.css
+│   ├── responsive.css
+│   └── pages.css
+│
+└── js/
+    ├── app.js
+    ├── planets.js
+    ├── missions.js
+    ├── favorites.js
+    └── storage.js
