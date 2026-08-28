@@ -57,7 +57,7 @@ cosmo/
 
 ## 🌌 Pages
 🏠 Home
-
+okoko vjb fkjv
 Explore the Cosmo homepage with:
 
 Space facts
@@ -70,7 +70,7 @@ Navigation to planets and missions
 Explore the eight planets of our solar system.
 
 Each planet includes:
-
+ff
 Type
 Distance from the Sun
 Temperature
