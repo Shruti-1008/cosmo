@@ -123,3 +123,19 @@ Select Open with Live Server.
 🌙 Planet animations
 ⭐ More space facts
 🚀 Mission timelines
+
+## 🎯 What I Practiced:
+
+This project helped practice:
+```
+HTML structure
+CSS layouts
+CSS animations
+Responsive design
+JavaScript DOM manipulation
+Arrays and objects
+Search functionality
+Event handling
+localStorage
+Multi-page websites
+```
