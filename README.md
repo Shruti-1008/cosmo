@@ -93,3 +93,14 @@ Artemis
 Save your favorite planets and view them on a dedicated page.
 
 Favorites are stored using browser localStorage.
+
+## 🎨 Design
+
+Cosmo uses a dark cinematic space aesthetic with:
+
+Deep navy backgrounds
+Purple and blue gradients
+Glowing elements
+Glass-style cards
+Animated planets
+Twinkling stars
