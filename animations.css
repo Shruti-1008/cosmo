@@ -1,0 +1,169 @@
+/* FLOATING PLANET */
+
+@keyframes float {
+
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-18px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+
+}
+
+
+/* ORBIT ROTATION */
+
+.orbit-one {
+    animation:
+        orbitOne 12s linear infinite;
+}
+
+.orbit-two {
+    animation:
+        orbitTwo 18s linear infinite;
+}
+
+
+@keyframes orbitOne {
+
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+
+}
+
+
+@keyframes orbitTwo {
+
+    from {
+        transform: rotate(360deg);
+    }
+
+    to {
+        transform: rotate(0deg);
+    }
+
+}
+
+
+/* GLOWING BUTTON */
+
+.primary-btn {
+    animation:
+        buttonGlow 3s ease-in-out infinite;
+}
+
+
+@keyframes buttonGlow {
+
+    0%,
+    100% {
+        box-shadow:
+            0 10px 35px
+            rgba(99, 102, 241, 0.25);
+    }
+
+    50% {
+        box-shadow:
+            0 10px 45px
+            rgba(139, 92, 246, 0.5);
+    }
+
+}
+
+
+/* CARD APPEAR */
+
+.explore-card {
+    animation:
+        cardAppear 0.7s ease forwards;
+}
+
+
+@keyframes cardAppear {
+
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+}
+
+
+/* STAR TWINKLE */
+
+.stars::before,
+.stars::after {
+    content: "✦  ·  ✧  ·  ⋆  ·  ✦  ·  ⋆  ·  ✧";
+
+    position: absolute;
+
+    width: 100%;
+
+    color: white;
+
+    font-size: 18px;
+
+    letter-spacing: 45px;
+
+    opacity: 0.5;
+
+    animation:
+        twinkle 4s ease-in-out infinite;
+}
+
+
+.stars::before {
+    top: 15%;
+    left: 5%;
+}
+
+
+.stars::after {
+    top: 65%;
+    left: 20%;
+
+    animation-delay: 2s;
+}
+
+
+@keyframes twinkle {
+
+    0%,
+    100% {
+        opacity: 0.2;
+    }
+
+    50% {
+        opacity: 0.8;
+    }
+
+}
+
+
+/* REDUCE MOTION FOR ACCESSIBILITY */
+
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        animation: none !important;
+    }
+
+}
