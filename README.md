@@ -87,3 +87,9 @@ Hubble Space Telescope
 Curiosity
 James Webb
 Artemis
+
+## ❤️ Favorites
+
+Save your favorite planets and view them on a dedicated page.
+
+Favorites are stored using browser localStorage.
