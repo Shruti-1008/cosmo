@@ -10,3 +10,18 @@ It lets users explore planets, discover famous space missions, and save their fa
 - 🔍 Search planets
 - ❤️ Favorite planets
 - 💾 Save favorites with localStorage
+- 💾 Save favorites with localStorage
+- 🚀 Browse famous space missions
+- ✦ Random space facts
+- 🌌 Animated space-themed interface
+- 📱 Responsive design
+- 🌙 Dark cinematic UI
+- ✨ CSS animations
+- 🧭 Multi-page navigation
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
