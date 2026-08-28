@@ -1,4 +1,4 @@
-# 🪐 Cosmo — Explore the Universe !
+# 🪐 Cosmo — Explore the Universe 
 
 Cosmo is an aesthetic space-exploration website built with HTML, CSS, and JavaScript.
 
@@ -139,3 +139,4 @@ Event handling
 localStorage
 Multi-page websites
 ```
+✦ Made with curiosity & a little stardust. 🪐
