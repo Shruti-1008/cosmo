@@ -57,7 +57,7 @@ cosmo/
 
 ## 🌌 Pages
 🏠 Home
-okoko vjb fkjv
+
 Explore the Cosmo homepage with:
 
 Space facts
@@ -70,9 +70,20 @@ Navigation to planets and missions
 Explore the eight planets of our solar system.
 
 Each planet includes:
-ff
+
 Type
 Distance from the Sun
 Temperature
 Number of moons
 Favorite button
+
+## 🚀 Missions
+
+Discover famous missions such as:
+
+Apollo 11
+Voyager 1
+Hubble Space Telescope
+Curiosity
+James Webb
+Artemis
