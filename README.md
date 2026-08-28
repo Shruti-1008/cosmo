@@ -64,3 +64,15 @@ Space facts
 Animated Earth
 Cosmic background
 Navigation to planets and missions
+
+## 🪐 Planets
+
+Explore the eight planets of our solar system.
+
+Each planet includes:
+
+Type
+Distance from the Sun
+Temperature
+Number of moons
+Favorite button
