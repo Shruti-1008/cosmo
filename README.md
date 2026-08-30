@@ -6,7 +6,7 @@ It lets users explore planets, discover famous space missions, and save their fa
 
 ## ✨ Features:
 
-- 🪐 Explore all 8 planets
+- 🪐 Explore all 8 planets23
 - 🔍 Search planets
 - ❤️ Favorite planets
 - 💾 Save favorites with localStorage
