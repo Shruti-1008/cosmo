@@ -1,10 +1,10 @@
 # 🪐 Cosmo — Explore the Universe 
-12
+
 Cosmo is an aesthetic space-exploration website built with HTML, CSS, and JavaScript.
 
 It lets users explore planets, discover famous space missions, and save their favorite planets.
 
-## ✨ Features:
+## ✨ Features:123
 
 - 🪐 Explore all 8 planets
 - 🔍 Search planets
